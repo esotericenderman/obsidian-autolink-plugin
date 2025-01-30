@@ -4,7 +4,7 @@
 
 [![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 
-A simple plugin to automatically link files.
+A simple plugin to automatically link files (incomplete).
 
 ## License
 
