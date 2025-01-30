@@ -2,6 +2,8 @@
 
 <sup>Generated from <a href="https://github.com/obsidianmd/obsidian-sample-plugin">obsidianmd/obsidian-sample-plugin</a></sup>
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 A simple plugin to automatically link files.
 
 ## License
