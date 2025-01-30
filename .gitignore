@@ -1,4 +1,4 @@
-# vscode
+# VSCode
 .vscode
 
 # Intellij
@@ -16,7 +16,7 @@ main.js
 # Exclude sourcemaps
 *.map
 
-# obsidian
+# Obsidian
 data.json
 
 # Exclude macOS Finder (System Explorer) View States
