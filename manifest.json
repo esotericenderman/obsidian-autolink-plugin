@@ -4,6 +4,6 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "A simple plugin to automatically link files.",
-	"author": "Slqmy",
+	"author": "Esoteric Enderman",
 	"isDesktopOnly": false
 }
