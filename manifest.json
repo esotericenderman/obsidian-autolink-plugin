@@ -1,6 +1,6 @@
 {
 	"id": "obsidian-autolink-plugin",
-	"name": "AutoLink",
+	"name": "Autolink",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "A simple plugin to automatically link files.",
